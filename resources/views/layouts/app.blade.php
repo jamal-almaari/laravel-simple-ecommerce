@@ -52,7 +52,7 @@
     <div class="container my-4">
         @yield('content')
     </div>
-    <!-- footer -->
+    <!-- footer-->
     {{-- <div class="copyright py-4 text-center text-white">
         <div class="container">
             <small>
